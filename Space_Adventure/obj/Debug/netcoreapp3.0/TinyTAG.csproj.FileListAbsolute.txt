@@ -1,0 +1,11 @@
+C:\Users\Sabina\RiderProjects\TinyTAG\TinyTAG\bin\Debug\netcoreapp3.0\TinyTAG.exe
+C:\Users\Sabina\RiderProjects\TinyTAG\TinyTAG\bin\Debug\netcoreapp3.0\TinyTAG.deps.json
+C:\Users\Sabina\RiderProjects\TinyTAG\TinyTAG\bin\Debug\netcoreapp3.0\TinyTAG.runtimeconfig.json
+C:\Users\Sabina\RiderProjects\TinyTAG\TinyTAG\bin\Debug\netcoreapp3.0\TinyTAG.runtimeconfig.dev.json
+C:\Users\Sabina\RiderProjects\TinyTAG\TinyTAG\bin\Debug\netcoreapp3.0\TinyTAG.dll
+C:\Users\Sabina\RiderProjects\TinyTAG\TinyTAG\bin\Debug\netcoreapp3.0\TinyTAG.pdb
+C:\Users\Sabina\RiderProjects\TinyTAG\TinyTAG\obj\Debug\netcoreapp3.0\TinyTAG.csprojAssemblyReference.cache
+C:\Users\Sabina\RiderProjects\TinyTAG\TinyTAG\obj\Debug\netcoreapp3.0\TinyTAG.AssemblyInfoInputs.cache
+C:\Users\Sabina\RiderProjects\TinyTAG\TinyTAG\obj\Debug\netcoreapp3.0\TinyTAG.AssemblyInfo.cs
+C:\Users\Sabina\RiderProjects\TinyTAG\TinyTAG\obj\Debug\netcoreapp3.0\TinyTAG.dll
+C:\Users\Sabina\RiderProjects\TinyTAG\TinyTAG\obj\Debug\netcoreapp3.0\TinyTAG.pdb

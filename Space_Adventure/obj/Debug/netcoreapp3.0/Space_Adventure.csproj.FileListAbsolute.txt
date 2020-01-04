@@ -1,0 +1,11 @@
+C:\Users\Sabina\RiderProjects\Space_Adventure\Space_Adventure\bin\Debug\netcoreapp3.0\Space_Adventure.exe
+C:\Users\Sabina\RiderProjects\Space_Adventure\Space_Adventure\bin\Debug\netcoreapp3.0\Space_Adventure.deps.json
+C:\Users\Sabina\RiderProjects\Space_Adventure\Space_Adventure\bin\Debug\netcoreapp3.0\Space_Adventure.runtimeconfig.json
+C:\Users\Sabina\RiderProjects\Space_Adventure\Space_Adventure\bin\Debug\netcoreapp3.0\Space_Adventure.runtimeconfig.dev.json
+C:\Users\Sabina\RiderProjects\Space_Adventure\Space_Adventure\bin\Debug\netcoreapp3.0\Space_Adventure.dll
+C:\Users\Sabina\RiderProjects\Space_Adventure\Space_Adventure\bin\Debug\netcoreapp3.0\Space_Adventure.pdb
+C:\Users\Sabina\RiderProjects\Space_Adventure\Space_Adventure\obj\Debug\netcoreapp3.0\Space_Adventure.csprojAssemblyReference.cache
+C:\Users\Sabina\RiderProjects\Space_Adventure\Space_Adventure\obj\Debug\netcoreapp3.0\Space_Adventure.AssemblyInfoInputs.cache
+C:\Users\Sabina\RiderProjects\Space_Adventure\Space_Adventure\obj\Debug\netcoreapp3.0\Space_Adventure.AssemblyInfo.cs
+C:\Users\Sabina\RiderProjects\Space_Adventure\Space_Adventure\obj\Debug\netcoreapp3.0\Space_Adventure.dll
+C:\Users\Sabina\RiderProjects\Space_Adventure\Space_Adventure\obj\Debug\netcoreapp3.0\Space_Adventure.pdb

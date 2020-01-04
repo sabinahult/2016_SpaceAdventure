@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "Space_Adventure/1.0.0": {
+        "runtime": {
+          "Space_Adventure.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Space_Adventure/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
